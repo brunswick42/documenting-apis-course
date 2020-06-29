@@ -9,7 +9,7 @@ I'm underemployed. I work as a SR&ED tech writer and hate it, feel trapped by it
 My goals are to find a job, and start working on something I can take pride in. While I would love to find a position in the game industry, that is unlikely. But my interests are broad and getting involved in any part of the tech industry excites me.
 
 ## Are you in a place where developer documentation jobs are plentiful?
-Fredericton has a moderate-sized tech sector. IBM, Salesforce, Skillshare, and Unisys have offices here, but I've seen very few technical writing positions and no developer documentation positions. Other parts of Canada are much more promising. I'm expect to move, and I am okay with that.
+Fredericton has a moderate-sized tech sector. IBM, Salesforce, Skillshare, and Unisys have offices here, but I've seen very few technical writing positions and no developer documentation positions. Other parts of Canada are much more promising. I expect to move, and I am okay with that.
 
 ## What would you consider to be a success metric for this course?
 It is all about feelings. I'll be happy if feel prepared to write documentation for GitHub projects without wondering whether I'm doing it all wrong.
