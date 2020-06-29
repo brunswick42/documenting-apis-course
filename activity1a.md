@@ -15,4 +15,4 @@ Fredericton has a moderate-sized tech sector. IBM, Salesforce, Skillshare, and U
 It is all about feelings. I'll be happy if feel prepared to write documentation for GitHub projects without wondering whether I'm doing it all wrong.
 
 ## Do you have the technical mindset needed to excel in developer documentation fields?
-I have a dual BCS/BSc (Physics), worked on the D0 and ATLAS particle physics experiments, and enjoy programming. Perhaps most importantly, I am have a need to learn new things.
+I have a dual BCS/BSc (Physics) degree, worked on the D0 and ATLAS particle physics experiments, and enjoy programming. Perhaps most importantly, I am have a need to learn new things.
