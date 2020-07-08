@@ -4,4 +4,4 @@ This repository stores my solutions for the activities in Tom Johnson's course, 
 
 ## List of completed activities
 [Activity 1a: Identify your goals](activity1a.md)  
-[Resource description for the surfreport endpoint](surfreport-resource.md)
+[Resource description for the Surfreport endpoint](surfreport-resource.md)
